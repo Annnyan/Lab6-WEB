@@ -1,0 +1,17 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^8.0.2",
+    "dotenv": "^16.3.1",
+    "telegraf": "^4.15.3"
+  }
+}
